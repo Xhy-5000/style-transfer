@@ -1,2 +1,2 @@
 # style-transfer
-"Neural Style Transfer" page for CV introduction web page.
+"Neural Style Transfer" page for CV introduction Web page.
